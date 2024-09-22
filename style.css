@@ -330,7 +330,7 @@ section {
   color: rgb(85, 85, 85);
   font-weight: 600;
   font-size: 1.75rem;
-  margin-bottom: 2rem;
+  margin-bottom: 0rem;
 }
 
 .experience-details-container {
@@ -364,7 +364,7 @@ article .icon {
 .project-description {
   font-size: 1rem;
   color: #555;
-  margin-top: 10px;
+  margin-top: -30px;
   line-height: 1.6;
 }
 
